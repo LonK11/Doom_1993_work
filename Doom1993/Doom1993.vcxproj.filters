@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Platform">
+      <UniqueIdentifier>{18e9e7d2-6c05-4438-96a5-d580cb256301}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\f_finale.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\f_wipe.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\g_game.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\hu_lib.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\hu_stuff.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\i_net.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\i_sound.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\i_system.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\i_video.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\info.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_argv.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_bbox.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_cheat.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_fixed.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_menu.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_misc.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_random.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_swap.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_inter.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_local.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_mobj.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_pspr.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_saveg.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_setup.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_spec.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_tick.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_bsp.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_data.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_defs.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_draw.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_local.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_main.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_plane.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_segs.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_sky.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_state.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_things.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\s_sound.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\sounds.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\st_lib.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\st_stuff.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\tables.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\v_video.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\w_wad.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\wi_stuff.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\z_zone.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\am_map.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_englsh.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_event.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_french.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_items.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_main.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_net.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_player.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_textur.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_think.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_ticcmd.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\doomdata.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\doomdef.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\doomstat.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\doomtype.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\dstrings.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\f_wipe.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\g_game.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\hu_lib.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\hu_stuff.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\i_main.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\info.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_argv.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_bbox.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_cheat.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_fixed.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_menu.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_misc.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_random.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\m_swap.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_ceilng.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_doors.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_enemy.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_floor.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_inter.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_lights.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_map.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_maputl.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_mobj.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_plats.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_pspr.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_saveg.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_setup.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_sight.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_spec.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_switch.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_telept.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_tick.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\p_user.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_bsp.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_data.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_draw.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_main.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_plane.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_segs.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_sky.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\r_things.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\s_sound.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\sounds.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\st_lib.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\st_stuff.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\tables.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\v_video.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\w_wad.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\wi_stuff.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\z_zone.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\am_map.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_items.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_main.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\d_net.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\doomdef.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\doomstat.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\dstrings.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Pictures\Downloads\DOOM-master\DOOM-master\linuxdoom-1.10\f_finale.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
